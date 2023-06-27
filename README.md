@@ -1,2 +1,2 @@
 # bankamatik
-Basit bir banlamatik yaparak şifre girişi,kullanıcı bilgisi,para çekme ve hesapları gösterme gibi bunları gösterdiğim bir program yaptım
+Basit bir bankamatik yaparak şifre girişi,kullanıcı bilgisi,para çekme ve hesapları gösterme gibi bunları gösterdiğim bir program yaptım
